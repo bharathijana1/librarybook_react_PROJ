@@ -1,0 +1,19 @@
+.navbgcolor{
+    background-color: rgba(105, 7, 81, 0.849);
+}
+.link{
+    cursor: pointer;
+    
+}
+.link:hover{
+    border-bottom: 1px solid white;
+}
+.pagenotfound{
+    flex-direction: column;
+    font-size: large;
+
+}
+.button{
+    cursor: pointer;
+}
+
